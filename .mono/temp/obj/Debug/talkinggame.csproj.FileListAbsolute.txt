@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\talkinggame\.mono\temp\bin\Debug\talkinggame.dll
+C:\Users\Joshua\Documents\talkinggame\.mono\temp\bin\Debug\talkinggame.pdb
+C:\Users\Joshua\Documents\talkinggame\.mono\temp\obj\Debug\talkinggame.csproj.AssemblyReference.cache
+C:\Users\Joshua\Documents\talkinggame\.mono\temp\obj\Debug\talkinggame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Documents\talkinggame\.mono\temp\obj\Debug\talkinggame.AssemblyInfoInputs.cache
+C:\Users\Joshua\Documents\talkinggame\.mono\temp\obj\Debug\talkinggame.AssemblyInfo.cs
+C:\Users\Joshua\Documents\talkinggame\.mono\temp\obj\Debug\talkinggame.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Documents\talkinggame\.mono\temp\obj\Debug\talkinggame.dll
+C:\Users\Joshua\Documents\talkinggame\.mono\temp\obj\Debug\talkinggame.pdb
