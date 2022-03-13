@@ -1,0 +1,13 @@
+{
+    "0": {
+        "text": "Hello, how can I help you?",
+        "options": [
+            {
+                "text": "I want to buy some stuff."
+            },
+            {
+                "text": "Nothing, really"
+            }
+        ]
+    }
+}

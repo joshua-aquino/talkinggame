@@ -1,0 +1,25 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://test.cs" type="Script" id=2]
+
+[node name="test" type="Node2D"]
+script = ExtResource( 2 )
+
+[node name="TextEdit" type="TextEdit" parent="."]
+margin_right = 452.0
+margin_bottom = 111.0
+text = "hello"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button" type="Button" parent="."]
+margin_left = 215.0
+margin_top = 155.0
+margin_right = 253.0
+margin_bottom = 196.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[connection signal="pressed" from="Button" to="." method="onButtinPresst"]
