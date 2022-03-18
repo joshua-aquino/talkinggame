@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rkyNqb8zPfyoBEFzFahduiKN/cDrv6yHPdRyt5/Pe62HaTlBCE3RdNY0bznWNncmJadwVs2OG6px0+QiMZb1gA==",
+  "dgSpecHash": "g+5j3ZoWX6rEifqw00DIfrBf5tjlKdmXaHwe9BYbnydHAUZEm83tcbLB+4ov3csjv4G5xgR1E1CKw8WG6Gi5Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joshua\\Documents\\talkinggame\\talkinggame.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/joshua/projects/talkinggame/talkinggame.csproj",
+  "expectedPackageFiles": [
+    "/home/joshua/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/joshua/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

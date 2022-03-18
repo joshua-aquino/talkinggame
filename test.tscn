@@ -14,12 +14,44 @@ __meta__ = {
 }
 
 [node name="Button" type="Button" parent="."]
-margin_left = 215.0
-margin_top = 155.0
-margin_right = 253.0
-margin_bottom = 196.0
+margin_left = 395.0
+margin_top = 178.0
+margin_right = 461.0
+margin_bottom = 219.0
+text = "increase"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button2" type="Button" parent="."]
+margin_left = 395.0
+margin_top = 139.0
+margin_right = 465.0
+margin_bottom = 159.0
+rect_rotation = -5.56579
+text = "decrease"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button3" type="Button" parent="."]
+margin_left = 145.0
+margin_top = 202.0
+margin_right = 196.0
+margin_bottom = 222.0
+text = "report"
+
+[node name="insult" type="Button" parent="."]
+margin_left = 157.0
+margin_top = 258.0
+margin_right = 205.0
+margin_bottom = 278.0
+text = "bob is insulted by"
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
 [connection signal="pressed" from="Button" to="." method="onButtinPresst"]
+[connection signal="pressed" from="Button2" to="." method="_on_Button2_pressed"]
+[connection signal="pressed" from="Button3" to="." method="_on_Button3_pressed"]
+[connection signal="pressed" from="insult" to="." method="_on_insult_pressed"]

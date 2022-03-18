@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joshua\\Documents\\talkinggame\\talkinggame.csproj": {}
+    "/home/joshua/projects/talkinggame/talkinggame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joshua\\Documents\\talkinggame\\talkinggame.csproj": {
+    "/home/joshua/projects/talkinggame/talkinggame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joshua\\Documents\\talkinggame\\talkinggame.csproj",
+        "projectUniqueName": "/home/joshua/projects/talkinggame/talkinggame.csproj",
         "projectName": "talkinggame",
-        "projectPath": "C:\\Users\\Joshua\\Documents\\talkinggame\\talkinggame.csproj",
-        "packagesPath": "C:\\Users\\Joshua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joshua\\Documents\\talkinggame\\.mono\\temp\\obj\\",
+        "projectPath": "/home/joshua/projects/talkinggame/talkinggame.csproj",
+        "packagesPath": "/home/joshua/.nuget/packages/",
+        "outputPath": "/home/joshua/projects/talkinggame/.mono/temp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Joshua\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/joshua/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net472"
@@ -37,7 +37,15 @@
       "frameworks": {
         "net472": {
           "targetAlias": "net472",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
