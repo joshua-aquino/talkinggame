@@ -1,5 +1,6 @@
 namespace talkinggame
 {
+  //lol
     public class item
     {
         private string itemName;
